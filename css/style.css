@@ -1,0 +1,287 @@
+body {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+
+}
+.header{
+  display: flex;
+  flex-direction: row;
+  height: 68px;
+  gap: 210px;
+  justify-content: center;
+  margin-top: 73px;
+
+}
+.header2{
+  display: flex;
+  flex-direction: row;
+  height: 68px;
+  gap: 40px;
+  align-items: center;
+
+}
+.header1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 220px;
+  gap: 10px;
+}
+.headimg{
+  height: 36px;
+  width: 36px;
+
+}
+.headerbut{
+  border: 1.5px solid ;
+  border-radius: 14px;
+  width: 231px;
+
+}
+.headera{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+
+}
+.info1{
+  width: 531px;
+  height: 481;
+}
+.info{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.infoh1{
+  font-size: 60px;
+}
+.infop{
+  font-size: 20px;
+}
+.infobut{
+  border: 1.5px solid ;
+  border-radius: 14px;
+  width: 264px;
+  height: 68px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+
+}
+.companilogo{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 95px;
+  flex-wrap: wrap;
+}
+.servicesinfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+}
+.servicesinfo2{
+  width: 560px;
+  
+}
+.servicesinfo1{
+  border: 0px solid;
+  border-radius: 14px;
+  background-color: #B9FF66;
+  width: 180px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 70px;
+}
+.windows{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 310px;
+  background-color: #F3F3F3;
+  border-radius: 50px;
+  gap: 70px;
+  box-shadow: 0px 5px 0px 0px black;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+.windows-left{
+  width: 220px;
+  height: 210px;
+  display: flex;
+  flex-direction: column;
+
+}
+.windows-left2{
+  display: flex;
+  flex-direction: row;
+  width: 165px;
+  height: 40px;
+  align-items: center;
+  gap: 15px;
+  margin-top: 90px;
+
+}
+.windows-leftp{
+  font-size: 20px;
+}
+.windows-left1{
+  width: 220px;
+  height: 75px;
+  
+}
+.windows-lefth3{
+  font-size: 25px;
+}
+.windows-1up{
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+.windows2{
+    display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 310px;
+  background-color: #B9FF66;
+  border-radius: 50px;
+  gap: 70px;
+  box-shadow: 0px 5px 0px 0px black;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+.windows-2up{
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+.windows3{
+    display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 310px;
+  background-color: #191A23;
+  border-radius: 50px;
+  gap: 70px;
+  box-shadow: 0px 5px 0px 0px black;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+.windows-leftp3{
+  font-size: 20px;
+  color: white;
+}
+.windows-lefth3-3{
+    font-size: 25px;
+    color: white;
+    
+}
+.windows-lefth3-4{
+      font-size: 25px;
+  flex-wrap: wrap;
+}
+.windows-left1-4{
+    height: 75px;
+    width: 100px;
+}
+.windows4{
+      display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 310px;
+  background-color: #F3F3F3;
+  border-radius: 50px;
+  gap: 70px;
+  box-shadow: 0px 5px 0px 0px black;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+.windows5{
+      display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 310px;
+  background-color: #B9FF66;
+  border-radius: 50px;
+  gap: 70px;
+  box-shadow: 0px 5px 0px 0px black;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
+.windows-main{
+  width: 1440px;
+  height: 1010px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 84px;
+
+}
+.under-window{
+  display: flex;
+  flex-direction: row;
+  width: 1240px;
+  height: 350px;
+  gap: 190PX;
+  justify-content: center;
+  align-items: center;
+  background-color: #F3F3F3;
+  border-radius: 50px;
+}
+.under-window-left{
+  width: 500px;
+  height: 230px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 26px;
+}
+.under-windowH2{
+  font-size: 35px;
+}
+.under-windowH4{
+  font-size: 20px;
+}
+.under-windowH3{
+  font-size: 22px;
+}
+.under-window3{
+  background-color: #191A23;
+  color: white;
+  width: 290px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
